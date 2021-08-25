@@ -8,7 +8,6 @@ In this project i have worked to use `Docker`, `Python` and `GCS` to analysis da
 - <a href="https://www.postgresql.org/">PostgreSQL</a> on GCS (Storage and Backup)
 - <a href="https://datastudio.google.com/">Google Data Studio</a> (Dashboards and Reports)
 - <a href="https://pypi.org/project/jupyterlab/">JupyterLab</a> (Data Analysis & Engineering)
-- <a href="https://sonarcloud.io/">SonarCloud</a> (Code Quality & Code Security) 
 - <a href="https://www.python.org/downloads/">Python 3.8+</a> (Programming language)
 
 <!-- All Links -->
