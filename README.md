@@ -1,6 +1,6 @@
 <!-- About The Project -->
 # Building dashboard using Docker, Python and GCS
-In this project i have worked to use `Docker`, `Python` and `GCS` to analysis data and buil dashboard on top of it.
+In this project i have worked to use `Docker`, `Python` and `GCS` to analysis data and build dashboard on top of it.
 
 <!-- Used Technology's -->
 ### Used in this project:
